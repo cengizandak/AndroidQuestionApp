@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    android:gravity="center_vertical">
+    <LinearLayout
+        android:id="@+id/layoutUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/layout_question"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="total score:"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp" />
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="single remaining daily use:"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp" />
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="challenge remaining daily use:"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp" />
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/buttonSt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/DefaultButtonText"
+        android:background="@drawable/button_transparent_bg"
+        android:text=" Score Table "
+        android:layout_margin="5dp"
+        android:onClick="score_table_func"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#aa2020"
+        android:backgroundTint="#0a1b4d" />
+    <!--<Button
+        android:id="@+id/buttonBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/DefaultButtonText"
+        android:background="@drawable/button_transparent_bg"
+        android:text=" Back 2 Welcome "
+        android:layout_margin="5dp"
+        android:onClick="back_welcome_func"
+        android:layout_gravity="center_horizontal" />-->
+</LinearLayout>

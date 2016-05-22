@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/container"
+    android:gravity="center">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/layout_question"
+        android:orientation="vertical"
+        android:weightSum="100"
+        android:backgroundTint="#6fa1e9"
+        android:touchscreenBlocksFocus="false">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal">
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/singleicon"
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Single Mode"
+            android:id="@+id/textView"
+            android:layout_gravity="center_horizontal" />
+
+
+</LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="88dp"
+            android:layout_height="wrap_content"
+            android:text="q_time"
+            android:textSize="13dp"
+            android:gravity="center" />
+
+
+
+
+        <TextView
+            android:id="@+id/textViewQC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="question counter"
+            android:textSize="15dp"
+            android:layout_marginLeft="39dp"
+            android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/textViewTTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="t_time"
+        android:textSize="15dp"
+        android:gravity="center"
+        android:layout_gravity="right"
+        android:layout_marginLeft="80dp"/>
+</LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/layout_question"
+        android:layout_weight="0.59"
+        android:backgroundTint="#6fa1e9"
+       >
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Paragraph loading..."
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Question loading..."
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="20dp"
+                    android:textSize="17dp" />
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/layout_question"
+        android:backgroundTint="#6fa1e9">
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="346dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/Button1"
+                        android:layout_width="22dp"
+                        android:layout_height="23dp"
+                        android:text="A"
+                        android:onClick="a_func"
+                        style="@style/DefaultButtonText"
+                        android:background="@drawable/button_default_bg"
+                        android:textColor="#030303" />
+
+                    <TextView
+                        android:id="@+id/question1"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:textSize="17dp" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="354dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:orientation="horizontal"
+                    android:weightSum="1">
+
+                    <Button
+                        android:id="@+id/Button2"
+                        android:layout_width="22dp"
+                        android:layout_height="23dp"
+                        android:text="B"
+                        android:onClick="b_func"
+                        style="@style/DefaultButtonText"
+                        android:background="@drawable/button_default_bg"
+                        android:textColor="#141313" />
+
+                    <TextView
+                        android:id="@+id/question2"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:textSize="17dp"
+                        android:layout_weight="0.38" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:orientation="horizontal"
+                    android:weightSum="1"
+                    android:layout_weight="0.30">
+
+                    <Button
+                        android:id="@+id/Button3"
+                        android:layout_width="22dp"
+                        android:layout_height="23dp"
+                        android:text="C"
+                        android:onClick="c_func"
+                        style="@style/DefaultButtonText"
+                        android:background="@drawable/button_default_bg"
+                        android:textColor="#141313" />
+
+                    <TextView
+                        android:id="@+id/question3"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:textSize="17dp"
+                        android:layout_weight="0.61" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/Button4"
+                        android:layout_width="22dp"
+                        android:layout_height="23dp"
+                        android:text="D"
+                        android:onClick="d_func"
+                        style="@style/DefaultButtonText"
+                        android:background="@drawable/button_default_bg"
+                        android:textColor="#141313" />
+
+                    <TextView
+                        android:id="@+id/question4"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:textSize="17dp" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/Button5"
+                        android:layout_width="22dp"
+                        android:layout_height="23dp"
+                        android:text="E"
+                        android:onClick="e_func"
+                        style="@style/DefaultButtonText"
+                        android:background="@drawable/button_default_bg"
+                        android:textColor="#141313" />
+
+                    <TextView
+
+                        android:id="@+id/question5"
+                        android:layout_width="300dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:textSize="17sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="366dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/layout_question"
+        android:orientation="vertical"
+        android:backgroundTint="#6fa1e9">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/Button7"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:text="back"
+                android:onClick="right"
+                style="@style/DefaultButtonText"
+                android:background="@drawable/button_default_bg" />
+            <Button
+                android:id="@+id/Button6"
+                android:layout_width="wrap_content"
+                android:layout_height="37dp"
+                android:text="end"
+                android:onClick="q_end"
+                style="@style/DefaultButtonText"
+                android:background="@drawable/button_default_bg" />
+            <Button
+                android:id="@+id/Button8"
+                android:layout_width="wrap_content"
+                android:layout_height="38dp"
+                android:text="forward"
+                android:onClick="left"
+                style="@style/DefaultButtonText"
+                android:background="@drawable/button_default_bg" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout><!-- From: file:/C:/Users/Cengiz/Desktop/ASD/Questions/app/src/main/res/layout/questions.xml -->

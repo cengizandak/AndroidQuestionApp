@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:gravity="center_vertical">
+
+    <Button
+        android:id="@+id/buttonSM"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="@style/DefaultButtonText"
+        android:background="@drawable/button_transparent_bg"
+        android:text=" single mode "
+        android:onClick="single_mode_func"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="#0a1b4d"
+        android:textColor="#aa2020" />
+    <Button
+        android:id="@+id/buttonCM"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="@style/DefaultButtonText"
+        android:background="@drawable/button_transparent_bg"
+        android:text=" challenge mode "
+        android:onClick="challenge_mode_func"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="#0a1b4d"
+        android:textColor="#aa2020" />
+    <Button
+        android:id="@+id/buttonMP"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="@style/DefaultButtonText"
+        android:background="@drawable/button_transparent_bg"
+        android:text=" my profile "
+        android:onClick="my_profile_func"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="#0a1b4d"
+        android:textColor="#aa2020" />
+
+</LinearLayout>

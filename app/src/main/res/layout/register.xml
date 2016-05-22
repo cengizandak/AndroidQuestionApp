@@ -1,0 +1,89 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".Register" >
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:padding="10dp">
+
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edittext_top_bg"
+            android:padding="10dp"
+            android:textColorHint="#cccccc"
+            android:drawableLeft="@drawable/email"
+            android:hint="nick name"
+            android:layout_marginTop="2dp">
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edittext_default_bg"
+            android:padding="10dp"
+            android:textColorHint="#cccccc"
+            android:drawableLeft="@drawable/email"
+            android:hint="email"
+            android:layout_marginTop="2dp">
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edittext_bottom_bg"
+            android:padding="10dp"
+            android:textColorHint="#cccccc"
+            android:drawableLeft="@drawable/password"
+            android:layout_marginTop="2dp"
+            android:hint="password"
+            android:password="true"
+            android:layout_marginBottom="20dp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_below="@+id/button1"
+            style="@style/DefaultButtonText"
+            android:background="@drawable/button_transparent_bg"
+            android:text="register"
+            android:onClick="register_func"
+            android:layout_marginTop="2dp"
+            android:backgroundTint="#0a1b4d"
+            android:textColor="#aa2020" />
+
+        <LinearLayout
+            android:id="@+id/LayoutAlreadyUser"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_transparent_bg"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:visibility="visible">
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/button1"
+                android:layout_gravity="center_horizontal"
+                android:text="already user with this email address or nick name"
+                android:textColor="#ffff0000"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

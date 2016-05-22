@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-7f3f54019d4d56cc6edc505631800b9bc482a2bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-b7d6ce926c83ca9777db3665c6465c47e86a9cdd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-881f301cc34e57e7f443339cf2338b59a80de23e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-d78e099e0a2548d2a1abcab95dee5d387b2af12c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-3b116f6bdd15cdb7e8f950f453779003ba04369d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-b88589533b767a89f7e0fcc43fbcf435c99cd21f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-19db29adedbea2843e5f549ff9b2348b10c23e66.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-530d4f763c9ebba87eddc0094f9ec709b51323fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-4bca1d09438c3fe3ce7bcb762be4409e3e42ad0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-bc7bacc9592310021e1ad4b703b4a9b6f24164cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-47e9c5c8aeea7ae21be52a349c730d48874ba890.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-412b6ee80b70381d3e088e844ab006cf1f90eab2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-f8666b77d054a4176917dc075e50fdc9902d7eb2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-b5fccbcbd3f06942264d64967de64f77fc70f4ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-5e98db1e42edad6677af46826f3db27ae18051de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-0f881c691f005c3e2bc6aeea3011b1c3763aee78.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-a90385d1b78b052955a30d51c951f9bbc741c5ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-700f3ac11b6c2d7c531aa10bf7519775666522b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-e212b9c86fb476ea67b33b7f37c8572705d75271.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-5873aa46f06552d885db113e4f098514780b8064.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-6e797439bc62c4cff734ac085bec2e1784ebbd37.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-5cf49b0c3308c469bd1bee7169ad2421b7eeac10.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-183968e2718a3f0752fbda5d19d494296d3b571c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-18e3a3c970fbd1b61524d37fd0a6a1581393271d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-92e25dff72a489d8fe36c305eaab72335c7b3a61.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-bfb10878367da39d656f37190ebf17d02b710321.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-23bcc89c386c540aaf4def4dd539199e9efb1a17.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="82054090e487d78e163a988557db62d809fa9b95">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-a9924ddd39e9cb370ba89bf9eb94bba37df6b913.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\Cengiz\Desktop\ASD\Questions\app\build\intermediates\pre-dexed\debug\classes-24386ca468818a7f6c00111a248074cc978ed6a7.jar" />
+    </item>
+
+</items>
